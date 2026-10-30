@@ -1,0 +1,1 @@
+This is a repository for Epicode students attending the Computer Network Security course. Feel free to download any exercise yoiu find here. Packet Tracer (free Cisco software ) is needed in order to run the exercises. 
